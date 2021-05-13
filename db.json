@@ -15,7 +15,7 @@
           "assembled": "R$23.11"
         },
         "money_flow": "+",
-        "icon": "http://zzz",
+        "icon": "icon",
         "description": "99 ride trip",
         "status": "pending",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -29,7 +29,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -43,7 +43,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -57,7 +57,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -71,7 +71,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -85,7 +85,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -99,7 +99,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -113,7 +113,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -127,7 +127,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -141,7 +141,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -155,7 +155,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -169,7 +169,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -183,7 +183,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -197,7 +197,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
@@ -211,7 +211,7 @@
           "assembled": "R$100.00"
         },
         "money_flow": "-",
-        "icon": "http://aaa",
+        "icon": "icon",
         "description": "pay utility bill",
         "note": "settled",
         "trans_id": "aqwre21rfag-124eewgf-124eq4t"
