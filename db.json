@@ -1,221 +1,69 @@
 {
-  "errno": 0,
-  "errmsg": "SUCCESS",
-  "data": {
-    "title": "All transactions",
-    "total_counts": 2,
-    "next_index": 2,
-    "items": [
-      {
-        "local_time": "1970-12-31 12:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "23.11",
-          "symbolAfterValue": "0",
-          "assembled": "R$23.11"
-        },
-        "money_flow": "+",
-        "icon": "icon",
-        "description": "99 ride trip",
-        "status": "pending",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "101.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "102.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "103.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "104.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "105.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "106.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "107.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "108.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "109.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "100.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "110.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "100.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "111.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      },
-      {
-        "local_time": "1970-12-31 11:00",
-        "amount": {
-          "symbol": "R$",
-          "value": "112.00",
-          "symbolAfterValue": "0",
-          "assembled": "R$100.00"
-        },
-        "money_flow": "-",
-        "icon": "icon",
-        "description": "pay utility bill",
-        "note": "settled",
-        "trans_id": "aqwre21rfag-124eewgf-124eq4t"
-      }
-    ]
-  }
+  "data": [
+    {
+      "title": "trans 1",
+      "amount": 11.1,
+      "currency": "$"
+    },
+    {
+      "title": "trans 2",
+      "amount": 22.2,
+      "currency": "$"
+    },
+    {
+      "title": "trans 3",
+      "amount": 22.2,
+      "currency": "$"
+    },
+    {
+      "title": "trans 4",
+      "amount": 22.2,
+      "currency": "$"
+    },
+    {
+      "title": "trans 5",
+      "amount": 22.2,
+      "currency": "$"
+    },
+    {
+      "title": "trans 6",
+      "amount": 22.2,
+      "currency": "$"
+    },
+    {
+      "title": "trans 7",
+      "amount": 22.2,
+      "currency": "$"
+    },
+    {
+      "title": "trans 8",
+      "amount": 22.2,
+      "currency": "$"
+    },
+    {
+      "title": "trans 9",
+      "amount": 22.2,
+      "currency": "$"
+    },
+    {
+      "title": "trans 10",
+      "amount": 22.2,
+      "currency": "$"
+    },
+    {
+      "title": "trans 11",
+      "amount": 22.2,
+      "currency": "$"
+    },
+    {
+      "title": "trans 12",
+      "amount": 22.2,
+      "currency": "$"
+    },
+    {
+      "title": "trans 13",
+      "amount": 22.2,
+      "currency": "$"
+    }
+  ]
 }
